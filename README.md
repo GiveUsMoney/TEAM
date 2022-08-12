@@ -12,7 +12,7 @@
 
 > 보다 자유로운 개발을 위한 최소한의 규칙입니다. 말그대로 최소한의 규칙이므로 보다 융통성있고 유연한 방식이 있으면 그 방식을 채용하도록 합시다. 규칙의 개선점이 있다고 생각하는 경우 언제든지 말씀해주세요.
 
-> 개발 [순서도 정리본](https://drive.google.com/file/d/1GCQ8DqOKEC_WgVHo5nX-6UQpZGUw6G-t/view?usp=sharing) 확인 바랍니다.
+> [개발 순서도 정리본](https://drive.google.com/file/d/1GCQ8DqOKEC_WgVHo5nX-6UQpZGUw6G-t/view?usp=sharing) 확인 바랍니다.
 
 1. 개발에 관련된 모든 사항은 repo의 `issue`탭에 정리합니다.
     1. 무조건 [라벨](#라벨)을 달아둡시다.
@@ -106,13 +106,10 @@ feat: 스크린샷 업로드 기능 개발 완료
 
 ## 코딩 컨벤션
 
-> `개발중입니다` 팀의 코딩 컨벤션은 따로 존재하지 않습니다. 하지만 한 프로젝트를 생성할때 자동으로 가져오는 `ESLint`와 `Preitter`를 사용하고 있습니다.
+> 공식적인 `Javascript`의 코딩 컨벤션은 따로 존재하지 않습니다. 하지만 한 프로젝트를 생성할때 자동으로 가져오는 `ESLint`와 `Preitter`를 사용하고 있습니다.
 
-- `VSCode`에서 `ESLint`와 `Preitter`를 사용하고 싶다면 이 [문서](https://veggie-garden.tistory.com/13)를 확인해주세요
-- `Javascript`를 제외한 다른 언어는 다음 방식을 따릅니다.
-    - `Java`는 `google-java-formatter`를 사용합니다. [참고 문서](https://github.com/google/google-java-format)
-    - `Python`의 경우 `flake8`, `Black`을 사용합니다. [참고 문서](https://engineer-mole.tistory.com/282)
+- `Javascript` 또는 `Typescript`는 `ESLint`와 `Preitter`를 사용합니다. [참고 문서](https://veggie-garden.tistory.com/13)
+- `Java`는 `google-java-formatter`를 사용합니다. [참고 문서](https://github.com/google/google-java-format)
+- `Python`의 경우 `flake8`, `Black`의 기본설정을 사용합니다. [참고 문서](https://engineer-mole.tistory.com/282)
 
-## IDE(통합 개발 환경)
-
-`개발중입니다` 팀의 공식 IDE는 `VSCode`입니다만 강제하지는 않습니다.
+더 자세한 세팅 방법은 이 [문서](ENVIRONMENT.md)를 확인합시다.
