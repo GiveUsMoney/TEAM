@@ -4,7 +4,7 @@
 
 ## `개발중입니다` 팀에 관하여...
 - **체계적인 개발**을 추구합니다!
-    - `Github Project`와 `Google Calendar`로 일정 관리를 진행합니다.
+    - `Github Project`로 일감 관리를 진행합니다.
     - 모든 코드는 `ESLint`와 `Pritter`가 적용됩니다.
     - `Github Action`과 기타 툴을 이용해 `CI/CD`를 관리합니다.
     - 체계적인 [개발 규칙](README.md)이 존재합니다. 
