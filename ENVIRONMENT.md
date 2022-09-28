@@ -25,6 +25,8 @@
     - [링크](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack)
 3. 기타 확장을 설치합니다.
     - [Lombok Annotations Support for VS Code](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-lombok)
+4. 아무 .java 파일의 문법을 엉망으로 만든 뒤 Ctrl+P를 눌러 명령 팔레트를 연 뒤 Format Document을 선택합니다.
+5. Language Support for Java(TM) by Red Hat를 선택하고 문법이 정상으로 돌아온것을 확인합니다.
 
 
 ## Python
