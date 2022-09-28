@@ -25,16 +25,7 @@
     - [링크](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack)
 3. 기타 확장을 설치합니다.
     - [Lombok Annotations Support for VS Code](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-lombok)
-4. `Formatter` 설정을 합니다.
-    - [google-java-formatter](https://github.com/google/google-java-format/releases/download/v1.15.0/google-java-format-1.15.0-all-deps.jar)를 설치합니다. (되도록이면 C드라이브와 가까운 곳에 파일을 둡시다.)
-    - [Google-Java-Format](https://marketplace.visualstudio.com/items?itemName=mngrm3a.vscode-google-java-formatter) 확장을 설치합니다.
-    - `google-java-formatter`를 설치한 경로를 복사합니다.
-    - `Ctrl+,`을 눌러 설정을 열고 `grf`를 입력합니다.
-    - 나타나는 입력창에 경로를 입력합니다.
-    - 아무 `.java` 파일을 엽니다.
-    - `.java` 파일의 문법을 엉망으로 만든 뒤 `Ctrl+P`를 눌러 명령 팔레트를 연 뒤 `Format Document`을 선택합니다.
-    - 알림창이 뜹니다. `구성` 버튼을 누른뒤 `Google Java Format`을 선택합니다.
-    - 파일의 문법이 정상으로 돌아온 것을 확인합니다.
+
 
 ## Python
 
